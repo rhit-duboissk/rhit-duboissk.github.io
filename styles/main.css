@@ -1,6 +1,9 @@
 body {
     /*Photo by Jean-Philippe Delberghe on Unsplash*/
     /* background-image: url("../images/avatar.png"); */
-    background-image: url("images/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg");
+    background-image: url("../images/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg");
     background-repeat: x-repeat;
+    background-attachment: scroll;
+    padding: 25px;
 }
+/* Jun Fermo */
